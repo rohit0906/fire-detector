@@ -10,7 +10,5 @@ scikit-learn>=0.23
 matplotlib>=1.4.3
 pandas>=0.19
 Keras-Preprocessing==1.1.2
-tensorboard==2.2.1
-tensorboard-plugin-wit==1.6.0.post3
 tensorflow==2.2.0
 tensorflow-estimator==2.2.0
