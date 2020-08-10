@@ -2,8 +2,9 @@ from flask import Flask, request, render_template
 import numpy as np
 import os
 from werkzeug.utils import secure_filename
-from keras.models import load_model
-from keras.preprocessing import image
+from tensorflow.keras.models import load_model
+from tensorflow.keras.preprocessing import image
+
 
 app=Flask(__name__)
 
