@@ -1,4 +1,4 @@
-# Fire Detection using CCTV images — Monk Library Application
+# Fire Detection using CCTV images
 ![Webapp](https://github.com/rohit0906/fire-detector/blob/master/static/webapp.gif)
 
 ## Goal
