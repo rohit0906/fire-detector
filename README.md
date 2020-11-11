@@ -1,4 +1,5 @@
 # Fire Detection using CCTV images — Monk Library Application
+![Webapp](https://github.com/rohit0906/fire-detector/blob/master/static/webapp.gif)
 
 ## Goal
 * Make a fire-detection deep learning model using the Monk library and transfer learning.
